@@ -2,7 +2,7 @@
   "name": "Escape from Darwin's Ship",
   "short_name": "다윈탈출",
   "description": "비글호 방탈출 게임 타이머",
-  "start_url": "/",
+  "start_url": "/darwin-escape/",
   "display": "standalone",
   "background_color": "#1c110a",
   "theme_color": "#4b2f1d",
